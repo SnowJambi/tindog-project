@@ -1,1 +1,1 @@
-#Tindog project for learning bootstrap
+# Tindog project for learning bootstrap
