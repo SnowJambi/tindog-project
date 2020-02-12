@@ -28,6 +28,34 @@
     line-height: 2;
 }
 
+#testimonials {
+    background-color: #ef8172;
+    color: #fff;
+    padding: 7% 20%;
+    text-align: center;
+}
+
+.testimonial-text {
+    font-weight: 900;
+    font-size: 3.5rem;
+    margin-bottom: 80px;
+}
+
+.testimonial-image {
+    border-radius: 100%;
+    width: 12%;
+}
+
+#press {
+    background-color: #ef8172;
+    text-align: center;
+}
+
+.press-img {
+    margin: 20px 50px 80px 50px;
+    width: 10%;
+}
+
 body {
     font-family: 'Montserrat', sans-serif;
 }
